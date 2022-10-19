@@ -54,15 +54,15 @@ sources:
 
 modules:
 
-    - name: gamma_java
+    - name: emboldcxx
 
       enabled: true
 
       rules:
 
-         - key: 'EMB-JAVA-10'
+         - key: 'EMB-CPP-91'
 
-           enabled: true
+           enabled: false
 
     - name: pmd
 
