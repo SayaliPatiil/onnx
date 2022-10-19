@@ -56,7 +56,7 @@ modules:
 
     - name: emboldcxx
 
-      enabled: true
+      enabled: false
 
       rules:
 
@@ -64,7 +64,7 @@ modules:
 
            enabled: false
 
-    - name: pmd
+    - name: cpp check
 
       enabled: true
 
