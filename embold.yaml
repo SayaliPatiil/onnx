@@ -30,7 +30,7 @@ modules:
     - name: emboldcxx
       enabled: true
       rules:
-         - key: 'EMB-CPP-20'
+         - key: 'EMB-CPP-91'
            enabled: false
     - name: pmd
       enabled: false
