@@ -27,12 +27,12 @@ sources:
 
 #Specify modules you would like to enable or disable.
 modules:
-    - name: emboldcxx
+    - name: gamma_cxx
       enabled: true
       rules:
          - key: 'EMB-CPP-91'
            enabled: false
-    - name: pmd
+    - name: cppcheck
       enabled: false
 
 
